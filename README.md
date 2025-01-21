@@ -81,11 +81,6 @@ npm install
 npx hardhat test
 ```
 
-3. Deploy:
-```bash
-npx hardhat run scripts/deploy.js --network <network-name>
-```
-
 ## License
 
 This project is licensed under the MIT License - see the LICENSE file for details.
